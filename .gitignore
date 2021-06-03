@@ -1,3 +1,10 @@
+# dataset
+dataset/
+
+# reference notebook
+notebook/model_BiGRU_TDNN.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
